@@ -1,3 +1,4 @@
+package FZO323Ejercicio1;
 public abstract class UnidadArmada{
 	
 	protected int vida;

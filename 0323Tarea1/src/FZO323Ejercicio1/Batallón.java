@@ -1,3 +1,4 @@
+package FZO323Ejercicio1;
 public class Batallón extends UnidadArmada {
 
 	final String TIPO = "Batallón";
